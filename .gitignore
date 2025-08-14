@@ -1,0 +1,16 @@
+# Ignore all .env files anywhere (React, Spring Boot, and others)
+**/.env
+**/.env.*
+
+# Node modules (React dependencies)
+node_modules/
+
+# React build folder
+build/
+
+# Spring Boot build folder
+target/
+
+# OS and log files
+.DS_Store
+*.log
